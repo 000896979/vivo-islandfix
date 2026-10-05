@@ -1,0 +1,16 @@
+# build artifacts
+app/build/
+app/out/
+*.apk
+*.idsig
+*.dex
+*.class
+
+# keep stubs (needed to build)
+!stub/**/*.java
+
+# local environment
+work/
+db/
+*.log
+*.txt

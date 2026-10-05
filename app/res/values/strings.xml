@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">原子岛媒体会话解锁</string>
+
+    <string-array name="xposed_scope">
+        <item>com.vivo.musicwidgetmix</item>
+        <item>com.vivo.systemuiplugin</item>
+    </string-array>
+</resources>
